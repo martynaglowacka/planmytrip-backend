@@ -1,4 +1,4 @@
-# Scenic Routes - Intelligent Sightseeing Planner
+# PlanMyTrip - Travel Made Simple
 
 **Author:** Martyna Glowacka 
 **Tech:** Java 17, Spring Boot, React, Google Maps API  
