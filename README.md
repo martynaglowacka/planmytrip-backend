@@ -2,7 +2,7 @@
 
 **Author:** Martyna Glowacka 
 **Tech:** Java 17, Spring Boot, React, Google Maps API  
-**Links:** [Frontend](https://github.com/martynaglowacka/planmytrip-frontend) | [Demo Video](#)
+**Links:** [Frontend](https://github.com/martynaglowacka/planmytrip-frontend) | [Demo Video](https://youtu.be/SI_svfJm1Nk)
 
 ---
 
