@@ -14,8 +14,6 @@
 
 A dual-mode trip planner that generates personalized routes and schedules for city exploration.
 
-A dual-mode trip planner that generates personalized routes and schedules for city exploration.
-
 **Mode 1: Walking Routes** (15-180 minutes)
 - Generates optimized walking routes for short city trips
 - Three route types: Loop (return to start), One-Way (exploration), Point-to-Point (A to B)
